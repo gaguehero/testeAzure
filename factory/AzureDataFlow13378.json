@@ -1,0 +1,9 @@
+{
+	"name": "AzureDataFlow13378",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "115a5f3f-75ce-4d47-9202-2fb2e834be32",
+		"tenantId": "937db9ab-24b8-427e-866e-d86818841c75"
+	}
+}
